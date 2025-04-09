@@ -1,0 +1,3 @@
+revenue: 100
+expenses: 20
+taxRate: 30
